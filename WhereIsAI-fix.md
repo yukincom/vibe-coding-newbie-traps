@@ -1,13 +1,13 @@
 
-title: "Skill: Gemini APIが応答しないときの切り分け手順"<br>
+title: "Skill: El CapitalにおいてGemini APIが応答しないときの切り分け手順"<br>
 skill_type: "debugging"<br>
 target: "AI Agent / Backend Developer"<br>
 difficulty: "intermediate"<br>
 last_updated: "2026-02-04"<br>
 <br>
 environment:<br>
-  - macOS (Apple Silicon / Intel)<br>
-  - Python 3<br>
+  - macOS (Apple Intel)<br>
+  - Python 3.8.1<br>
   - Flask Server<br>
   - Gemini API<br>
 tags:<br>
