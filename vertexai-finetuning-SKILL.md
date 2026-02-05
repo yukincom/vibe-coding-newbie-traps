@@ -77,9 +77,10 @@ open "https://console.cloud.google.com/vertex-ai/generative/tuning/create-tuned-
 - Gemini 1.5 Flash (`gemini-1.5-flash-002`)
 
 **✅ チューニング対応**
-- Gemini 2.5 Flash (`gemini-2.5-flash-preview-09-2025`)
+- Gemini 2.5 Flash (`gemini-2.5-flash`)
 - Gemma 2シリーズ (`gemma2-2b-it`, `gemma2-9b-it` など)
 - 他のGemmaバリエーション
+- 「preview」「001」のような細かいモデル指定をすると受け付けない場合あり。最新データを要確認
 
 **重要：モデル情報は頻繁に変わるため、必ずGUIで最新情報を確認すること**
 
